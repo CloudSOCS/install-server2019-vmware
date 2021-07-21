@@ -1,3 +1,5 @@
+![CloudSOC logo](https://1.bp.blogspot.com/-YaqntajfnjI/YPcbjtDTuRI/AAAAAAAAAH4/PPe7LLbuo6sipM1cWVIT5FdBC7wzPG54gCLcBGAsYHQ/s150/cloudsoc.png)
+
 
 Install Windows Server 2019 on VMWare Fusion
 ------
